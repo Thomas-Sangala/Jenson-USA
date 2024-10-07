@@ -1,9 +1,9 @@
 # Jenson-USA
 
-Problem Statement:- 
+# Problem Statement:- 
 As a data analyst at Jensen's, craft SQL queries to derive insights on customer behavior, staff performance, inventory management, and store operations.
 
-Project Aim:-
+# Project Aim:-
 
 1) Find the total number of products sold by each store along with the store name.
 2) Calculate the cumulative sum of quantities sold for each product over time.
